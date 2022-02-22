@@ -1,0 +1,23 @@
+{
+  "name": "learn-rest-api",
+  "version": "1.0.0",
+  "description": "aplikasi rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fahim214/learn-reat-api.git"
+  },
+  "keywords": [
+    "rest",
+    "api"
+  ],
+  "author": "fahmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fahim214/learn-reat-api/issues"
+  },
+  "homepage": "https://github.com/Fahim214/learn-reat-api#readme"
+}
